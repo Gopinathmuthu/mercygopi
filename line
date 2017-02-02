@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+printf("line a");
+printf("line b");
+printf("line c");
+}
