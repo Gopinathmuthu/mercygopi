@@ -1,0 +1,7 @@
+#include<stdio.h>
+main()
+{
+char sun,mon,tu,wed,th,fri,sat;
+printf("enter the week days");
+scanf("%s%s%s%s%s%s%s",sun,mon,tu,wed,th,fri,sat);
+}
